@@ -33,5 +33,5 @@ To run the code -> make some appropriate I/O of your choice, one such I/O implem
 
 	java *.java
 
-	<ul><li>*.java your I/O interface class</li><ul>
+	-  *.java your I/O interface class
 </pre>	
