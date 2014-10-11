@@ -3,7 +3,7 @@
 
 This is Java based library for search and trace algorithms used in large networks, like the social networks and communication networks.
 
-<b>Functionality - For Communication Networks -></b> <pre>Create a minimum spanning tree for the network, find a System on network, find the nearest system, find the cost of communication between 2 machines<br />....</pre>
+<b>Functionality - For Communication Networks -></b> <pre>Create a minimum spanning tree for the network, trace a machine on network, find the nearest machine, find the cost of communication between 2 machines<br />....</pre>
 
 <b>Functionality - For social networks -></b><pre>find friends, friends of friends, find the degre of closeness, suggest friends<br />...</pre>
 
@@ -25,3 +25,13 @@ To run the code -> make some appropriate I/O of your choice, one such I/O implem
 		graph in the form of adjacency matrix.
 	line 5+2*number of nodes - 1. --end
 </pre>
+
+<b>To run the code</b>
+
+<pre>
+	javac Node.java Graph.java *.java
+
+	java *.java
+
+	<ul><li>*.java your I/O interface class</li><ul>
+</pre>	
